@@ -1,0 +1,108 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    
+}
+h1{
+    font-size: 30px;
+}
+.tytel-color{
+    color: coral;
+    
+}
+
+.heder-section{
+    text-align: center;
+    background-image: url(/Images/top-banner.png);
+    background-repeat: no-repeat;
+    
+    
+}
+.dio-titel{
+    color: #ffad33;
+}
+.heder-section p{
+    margin-left: 25%;
+    margin-right: 25%;
+    
+}
+.hire-me-buton{
+    text-decoration: none;
+    background-image: linear-gradient(#1877F2, #ff9910);
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight:700;
+}
+.Dream-Big{
+    display: flex;
+    margin: 3%;
+    margin-top: 70px;
+    
+    
+} 
+.Dream-Big img{
+width: 400px;
+height: 400px;
+}
+.drem-bigo-content{
+    text-align: justify;
+    padding: 0 20px;
+    
+}
+.dream-color{
+    font-size: 40px;
+   color:#FF9800;
+}
+.become-meta{
+color: #22A5F1;
+}
+
+
+.exper-section-h1{
+    margin: 3%;
+    margin-top: 50px;
+    
+}
+
+.midol-section-dis{
+    
+    display: flex;
+    background-image: url(/Images/exp-bg.png);
+    background-repeat: no-repeat;
+    
+}
+.Web-devolpment{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: gray 10px 10px 40px;
+    text-align: justify;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 10px;
+    background-color: cornsilk;
+    
+}
+.SEO-expert{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: gray 10px 10px 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 10px;
+    text-align: justify;
+    background-color:salmon;
+    
+}
+footer{
+    margin-top: 100px;
+    text-align: center;
+    margin-bottom: 40px;
+    
+}
+
+
+
+
